@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/MichalZak17/MichalZak17/blob/main/1.png" height="200"/>
+</p>
+
+
 - 👋 Hi, I’m @MichalZak17
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
