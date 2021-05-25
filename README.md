@@ -55,28 +55,26 @@ Saturday            15.29%
 Sunday              20.9%
 
 ```
-
-
-📊 **This Week I Spent My Time On** 
+**💻 Technologies I Use**
 
 ```text
 ⌚︎ Time Zone: CEST/Warsaw
 
 💬 Programming Languages: 
-Python                   33 hrs 9 mins     91.04% 
-C++                      56 mins           2.61% 
-JavaScript               51 mins           2.35% 
-HTML                     49 mins           2.26% 
-Other	                 9 mins              0.45%
+Python                        91.04% 
+C++                           2.61% 
+JavaScript                    2.35% 
+HTML                          2.26% 
+Other	                        0.45%
 
 🔥 Editors: 
-Visual Studio Code       33 hrs 7 mins         90.94% 
-Browser                  1 hr 15 mins          3.46% 
-PyCharm                  1 hr 7 mins           3.1% 
-CLion                    54 mins               2.49%
+Visual Studio Code               90.94% 
+Browser                          3.46% 
+PyCharm                          3.1% 
+CLion                            2.49%
 
 
-💻 Operating System I Used: 
+💻 Operating System: 
 Windows
 Ubuntu Linux
 ```
