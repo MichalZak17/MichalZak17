@@ -1,7 +1,7 @@
+<p align = "center">
+  <img src = "https://github.com/MichalZak17/MichalZak17/blob/main/Bubbles%20Github.png"/>
+</p>
 
-<img align="center" src = "https://github.com/MichalZak17/MichalZak17/blob/main/Bubbles%20Github.png"/>
-
-<h1 align="center">Hi!, I'm @Michal</h1>
 
 - 👨‍💻 I’m currently working on **Data Science and Machine Learning**
 - 🌱 I’m currently learning **Artificial Intelligence and Competitive Programming**
