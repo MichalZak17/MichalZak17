@@ -1,5 +1,5 @@
 
-<img align="center" src="https://github.com/MichalZak17/MichalZak17/blob/main/1.png" height="430"/>
+<img align="center" src = "https://github.com/MichalZak17/MichalZak17/blob/main/Bubbles%20Github.png"/>
 
 <h1 align="center">Hi!, I'm @Michal</h1>
 
