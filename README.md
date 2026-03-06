@@ -11,9 +11,11 @@ _We build software that drives real results._
 
 </div>
 
-### 🛠️ Tech Stack
+---
 
 <div align="center">
+
+### 🛠️ Tech Stack
 
 **Frontend**
 
