@@ -35,6 +35,8 @@ _We build software that drives real results._
 
 </div>
 
+---
+
 ### 🏠 Homelab
 
 Running a self-hosted Proxmox infrastructure managing a large volume of data across multiple services — because the best way to learn is to build and break things at home.
