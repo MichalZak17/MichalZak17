@@ -3,12 +3,6 @@
 
 # Hey, I'm Michał 👋
 
-**Co-founder & Product Engineer @ [Quack Foundry](https://www.quackfoundry.com/en/)**
-
-_We build software that drives real results._
-
-[![Website](https://img.shields.io/badge/quackfoundry.com-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.quackfoundry.com/en/) [![Email](https://img.shields.io/badge/hello@quackfoundry.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@quackfoundry.com)
-
 </div>
 
 ---
@@ -64,7 +58,5 @@ Running a self-hosted Proxmox infrastructure managing a large volume of data acr
 <div align="center">
 
 **Let's build something great together.**
-
-[![Website](https://img.shields.io/badge/See_Our_Work-quackfoundry.com-1a1a2e?style=for-the-badge)](https://www.quackfoundry.com/en/)
 
 </div>
